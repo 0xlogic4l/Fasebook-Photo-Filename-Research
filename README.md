@@ -1,4 +1,4 @@
-# Facebook-Photo-Filename-Research
+# Facebook Photo Filename Research
 كنت فاتح OSINT Framework وتحديدًا قسم Facebook ولقيت البحث باستخدام Facebook Photo ID فا حسيت ان الطريقه دي بسيطه جداً .
 في اللحظة دي افتكرت إن لما بنعمل Save As لأي صورة من Facebook اسم الملف بيكون عبارة عن مجموعة أرقام. فسألت نفسي:
 > طب إيه المانع إن جزء من الأرقام دي يكون هو الـ FBID نفسه وبالتالي نقدر نوصل للصورة أو صاحبها من اسم الملف فقط؟
